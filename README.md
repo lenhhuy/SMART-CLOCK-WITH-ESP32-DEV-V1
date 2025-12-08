@@ -38,3 +38,32 @@ Nút 3: Bật/tắt báo thức.
 # Sơ đồ nối chân linh kiện
 <img width="999" height="535" alt="image" src="https://github.com/user-attachments/assets/7b139598-6c04-4e52-9e42-ee5fd697dfdc" />
 
+| **TFT Pin** | **ESP32 Pin** |
+|-------------|---------------|
+| VCC         | 3V3           |
+| GND         | GND           |
+| CS          | D15           |
+| RESET       | D4            |
+| D/C         | D2            |
+| SDI (MOSI)  | D23           |
+| SCK         | D18           |
+
+| **DHT22 Pin** | **ESP32 Pin** |
+|-------------|---------------|
+| VCC         | 3V3           |
+| GND         | GND           |
+| DATA        | D21           |
+
+| **DS3231 Pin** | **ESP32 Pin** |
+|-------------|---------------|
+| VCC         | 3V3           |
+| GND         | GND           |
+| SDA        | D4           |
+| SCL        | D2           |
+
+| **BUZZER PIN** | **ESP32 Pin** |
+|-------------|---------------|
+| +         | D25           |
+| -         | GND          |
+
+
