@@ -1,6 +1,11 @@
 # SMART CLOCK
 Đề tài hướng đến việc xây dựng một hệ thống đồng hồ thông minh sử dụng ESP32, có khả năng hiển thị thời gian thực và kết nối internet để đồng bộ dữ liệu. Hệ thống giúp người dùng theo dõi giờ, phút, giây chính xác theo múi giờ Việt Nam.
 
+# 🎬 Demo Video
+
+▶️ **[Watch Demo on YouTube](https://www.youtube.com/watch?si=MhxF7-nAhv4mg1xe&v=GMF9HQ6DBTY&feature=youtu.be)**
+
+
 # Hệ thống cung cấp các chức năng sau:
 ## Hiển thị Thời gian Thực (Real-Time Clock - RTC):
 Hiển thị Ngày, tháng, năm, giờ, phút, giây.
